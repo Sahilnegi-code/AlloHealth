@@ -1,0 +1,15 @@
+.img{
+    width: 13rem;
+    height: 13rem;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.h_4{
+    font-size: 1rem;
+}
+.h_3{
+    font-size: 1.1rem;
+}
+ul{
+    padding-inline-start: 0px;
+}
